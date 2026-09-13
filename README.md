@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raphael_Hansen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-hansen-1ba387292/)
 [![KONECT](https://img.shields.io/badge/KONECT-SpasZFPS-6C5CE7?style=for-the-badge)](https://konect.gg/spaszfps)
+[![VLR.gg](https://img.shields.io/badge/VLR.gg-spasz-D94B4B?style=for-the-badge)](https://www.vlr.gg/player/18906/spasz)
 
 </div>
 
