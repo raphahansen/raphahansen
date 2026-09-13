@@ -114,7 +114,34 @@ Minha trajetória competitiva começou no **CS:GO**, passou pelo **VALORANT** e 
 - **100jobs** — 2022–2023
 - **AJF eSports** — 2023
 - **Os Ponta Firme** — 2023
-- **MEGAZORD** — 2024
+- **MEGAZORD** — 2023–2024
+
+## 🏆 Conquistas competitivas
+
+### VALORANT
+
+| Colocação | Campeonato | Equipe | Data |
+|---|---|---|---|
+| **1º lugar** | KaBuM! Challenge | 100Jobs (ex-Bomb Crypto) | mar/2023 |
+| **3º lugar** | Gamers Club — Elite Cup 2023, Etapa Immortal (online) | MEGAZORD | jun/2023 |
+| **4º lugar** | Copa Rakin 2022 | 100Jobs | nov/2022 |
+| **5º–6º lugar** | Challengers League Brazil: Split 1 — Closed Qualifier | 100Jobs (ex-Bomb Crypto) | mar/2023 |
+| **5º lugar** | Champions Tour Brazil Stage 2: Challengers | 100Jobs (ex-Bomb Crypto) | mar/2022 |
+| **5º–8º lugar** | Gamers Club — Elite Cup 2023, Etapa Radiante (LAN) | MEGAZORD | jul/2023 |
+
+### CS:GO
+
+| Colocação | Campeonato | Equipe | Data |
+|---|---|---|---|
+| **1º lugar** | Copa GamersCard | CPTL eSports | set/2020 |
+| **2º lugar** | Brasil Premier League Season 12 — Closed Qualifier | CPTL eSports | mar/2020 |
+| **3º lugar** | Liga Amadora Gamers Club — Fevereiro/21 | Maxima Gaming | fev/2021 |
+| **4º lugar** | AORUS League — Brasil Open Qualifier | Maxima Gaming | fev/2021 |
+| **4º lugar** | Liga Desafiante Gamers Club — Setembro/2020 | CPTL eSports | set/2020 |
+| **5º lugar** | Liga Desafiante Gamers Club — Dezembro/2020 | z4n family | dez/2020 |
+| **5º lugar** | Liga Amadora Gamers Club — Julho/2020 | CPTL eSports | jul/2020 |
+
+> Resultados registrados no perfil [SpasZFPS na KONECT](https://konect.gg/spaszfps).
 
 <details>
 <summary><strong>Ver escalações registradas</strong></summary>
