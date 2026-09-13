@@ -6,11 +6,14 @@
 
 📍 Praia Grande, São Paulo, Brasil
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raphael_Hansen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-hansen-1ba387292/)
+[![KONECT](https://img.shields.io/badge/KONECT-SpasZFPS-6C5CE7?style=for-the-badge)](https://konect.gg/spaszfps)
+
 </div>
 
 ## Sobre mim
 
-Atuo como **Auxiliar de TI no Colégio COC Novomundo**, combinando suporte técnico, infraestrutura, organização de processos e desenvolvimento de soluções digitais para o ambiente escolar.
+Atuo como **Assistente de TI no Colégio COC Novomundo**, combinando suporte técnico, infraestrutura, organização de processos e desenvolvimento de soluções digitais para o ambiente escolar.
 
 Sou responsável por iniciativas que envolvem manutenção de computadores e equipamentos audiovisuais, administração de dispositivos, apoio a usuários, automação de rotinas e evolução de sistemas internos. Meu principal projeto atual é o **Portal da Leitura — COC Novomundo**, uma plataforma completa para gerenciamento da biblioteca escolar.
 
@@ -60,7 +63,9 @@ Também trabalho com **TanStack Router/Query, Radix UI, Supabase Auth e Storage,
 
 ## Experiência profissional
 
-### 🖥️ Colégio COC Novomundo — Auxiliar de TI
+### 🖥️ Colégio COC Novomundo — Assistente de TI
+
+**Abril de 2025 — atual | Praia Grande, SP**
 
 - Suporte técnico a professores, alunos e equipe administrativa
 - Manutenção de computadores, projetores, TVs, áudio e periféricos
@@ -68,26 +73,77 @@ Também trabalho com **TanStack Router/Query, Radix UI, Supabase Auth e Storage,
 - Apoio à infraestrutura de rede e aos ambientes Windows e Linux
 - Desenvolvimento e administração do Portal da Leitura
 - Criação de formulários, agendas e automações para processos internos
-- Produção de tutoriais e apoio a plataformas educacionais
+- Produção de tutoriais e suporte a plataformas educacionais
 
-### 📊 DIVINA eSports
+### 🔧 Profissional autônomo — Suporte técnico
+
+**Janeiro de 2015 — atual | Praia Grande, SP**
+
+Atendimento a clientes particulares com manutenção de hardware, instalação de softwares e sistemas operacionais, substituição de periféricos e resolução de problemas técnicos.
+
+## Trajetória nos eSports
+
+Minha trajetória competitiva começou no **CS:GO**, passou pelo **VALORANT** e retornou ao **Counter-Strike 2** em 2023. Atuei como jogador nas funções de **AWPer, Rifler, Solo Bomb e Controlador**. Em 2024, direcionei minha experiência para análise e treinamento estratégico.
+
+### 🎯 Coach e analista
+
+#### DIVINA Fem — 2024
 
 - **Analista de Dados** — janeiro a maio de 2024
 - **Treinador Estratégico** — maio a julho de 2024
+- Análise de partidas, padrões de jogo, desempenho individual e coletivo
+- Estudo de adversários e preparação de estratégias
+- Feedback, correções, rotina de treinos e desenvolvimento de liderança
+- Utilização de CS2Lens e Noesis.gg para análise de dados e métricas
 
-Responsável por análise de desempenho, construção de estratégias, estudo de mapas e adversários, feedback e ajustes táticos.
+### 🔫 Times como jogador de CS:GO
 
-### 🎮 Arena Jogue Fácil — Jogador de VALORANT
+- **Cold Clan** — 2016
+- **QuaseNada** — 2017
+- **NO ORG** — 2018–2019
+- **CPTL eSports** — 2020
+- **semXorah** — 2020
+- **z4n family** — 2020
+- **Maxima Gaming** — 2021
 
-Atuação competitiva entre fevereiro e junho de 2023, desenvolvendo comunicação, trabalho em equipe, disciplina e tomada de decisão sob pressão.
+### 🎮 Times como jogador de VALORANT
 
-### 🔫 Capital Serviços de Jogos Eletrônicos Ltda — Jogador profissional de CS:GO
+- **Barulhentos** — 2021
+- **BombCrypto / BCTeam** — 2021–2022
+- **100jobs** — 2022–2023
+- **AJF eSports** — 2023
+- **Os Ponta Firme** — 2023
+- **MEGAZORD** — 2024
 
-Atuação competitiva entre janeiro e setembro de 2020, com experiência em trabalho em equipe, comunicação, disciplina e tomada de decisão em ambiente competitivo.
+<details>
+<summary><strong>Ver escalações registradas</strong></summary>
 
-### 📦 Administração e logística
+#### CS:GO
 
-Experiência anterior em almoxarifado, controle de materiais, organização operacional e rotinas administrativas.
+- **Cold Clan:** spasz, red1, joao1, brenok, L1N
+- **QuaseNada:** spasz, frx, fuzari, ricdic, martj1N
+- **NO ORG:** spasz, L1N, martj1N, red1, brenok, sunday, volk, PedrinS3
+- **CPTL eSports:** spasz, kNf, saips, puni, hoax, slag, fells, reese, ncK, RpL^, ikki, sllayer
+- **semXorah:** spasz, slag, ikki, RpL^, saips, brnz4n, leoox
+- **z4n family:** spasz, saips, brnz4n, RpL^, leoox
+- **Maxima Gaming:** spasz, saips, mesk, vinizera, brunovsk, skN
+
+#### VALORANT
+
+- **Barulhentos:** Spasz, Slag, Katojin, Rankioshi, bzkA
+- **BombCrypto / BCTeam:** Slag, Spasz, Fatmarino, Mega, Vitrix, Sllayer (Coach)
+- **100jobs:** Edudz, Spasz, Fatmarino, Mega, Drago, Sllayer (Coach)
+- **AJF eSports:** Depppx, Spasz, Mega, ZaninZS, Veroneze, Impi (Coach)
+- **Os Ponta Firme:** spasz, cidZzZ, MATTyx, fzkk, forbanz, Fluyr (Coach)
+- **MEGAZORD:** spasz, cidZzZ, MATTyx, fzkk, Yeah, Fluyr (Coach)
+
+</details>
+
+### 📌 Outras experiências
+
+- **Motorista de aplicativo — Autônomo:** setembro de 2024 a abril de 2025
+- **Almoxarife — Engeterpa Construções e Participações:** setembro de 2018 a janeiro de 2020
+- **Jovem Aprendiz — ASPPE:** julho a setembro de 2018
 
 ## Competências
 
