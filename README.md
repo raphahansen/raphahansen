@@ -70,10 +70,6 @@ Também trabalho com **TanStack Router/Query, Radix UI, Supabase Auth e Storage,
 - Criação de formulários, agendas e automações para processos internos
 - Produção de tutoriais e apoio a plataformas educacionais
 
-### 🎯 MIBR Fem — Analista
-
-Durante oito meses, atuei com análise de partidas, estudo de adversários, preparação estratégica, revisão de replays e apoio à comissão técnica de Counter-Strike.
-
 ### 📊 DIVINA eSports
 
 - **Analista de Dados** — janeiro a maio de 2024
@@ -84,6 +80,10 @@ Responsável por análise de desempenho, construção de estratégias, estudo de
 ### 🎮 Arena Jogue Fácil — Jogador de VALORANT
 
 Atuação competitiva entre fevereiro e junho de 2023, desenvolvendo comunicação, trabalho em equipe, disciplina e tomada de decisão sob pressão.
+
+### 🔫 Capital Serviços de Jogos Eletrônicos Ltda — Jogador profissional de CS:GO
+
+Atuação competitiva entre janeiro e setembro de 2020, com experiência em trabalho em equipe, comunicação, disciplina e tomada de decisão em ambiente competitivo.
 
 ### 📦 Administração e logística
 
