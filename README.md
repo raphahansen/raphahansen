@@ -82,90 +82,35 @@ Também trabalho com **TanStack Router/Query, Radix UI, Supabase Auth e Storage,
 
 Atendimento a clientes particulares com manutenção de hardware, instalação de softwares e sistemas operacionais, substituição de periféricos e resolução de problemas técnicos.
 
-## Trajetória nos eSports
+## Experiência em eSports
 
-Minha trajetória competitiva começou no **CS:GO**, passou pelo **VALORANT** e retornou ao **Counter-Strike 2** em 2023. Atuei como jogador nas funções de **AWPer, Rifler, Solo Bomb e Controlador**. Em 2024, direcionei minha experiência para análise e treinamento estratégico.
+Antes de direcionar minha carreira para TI, construí uma trajetória competitiva em **CS:GO, VALORANT e CS2**, desenvolvendo liderança, pensamento analítico, comunicação e tomada de decisão sob pressão.
 
-### 🎯 Coach e analista
+### 🎯 DIVINA Fem — Coach e Analista
 
-#### DIVINA Fem — 2024
+**Janeiro a julho de 2024**
 
-- **Analista de Dados** — janeiro a maio de 2024
-- **Treinador Estratégico** — maio a julho de 2024
-- Análise de partidas, padrões de jogo, desempenho individual e coletivo
-- Estudo de adversários e preparação de estratégias
-- Feedback, correções, rotina de treinos e desenvolvimento de liderança
+- Análise de partidas, padrões de jogo e desempenho individual e coletivo
+- Estudo de adversários, preparação estratégica e ajustes táticos
+- Feedback, organização da rotina de treinos e desenvolvimento de jogadores
 - Utilização de CS2Lens e Noesis.gg para análise de dados e métricas
 
-### 🔫 Times como jogador de CS:GO
+### 🎮 Trajetória como jogador
 
-- **Cold Clan** — 2016
-- **QuaseNada** — 2017
-- **NO ORG** — 2018–2019
-- **CPTL eSports** — 2020
-- **semXorah** — 2020
-- **z4n family** — 2020
-- **Maxima Gaming** — 2021
+- **CS:GO — 2016 a 2021:** Cold Clan, QuaseNada, NO ORG, CPTL eSports, semXorah, z4n family e Maxima Gaming
+- **VALORANT — 2021 a 2024:** Barulhentos, BombCrypto/BCTeam, 100Jobs, AJF eSports, Os Ponta Firme e MEGAZORD
+- Funções exercidas: **AWPer, Rifler, Solo Bomb e Controlador**
 
-### 🎮 Times como jogador de VALORANT
+### 🏆 Principais conquistas
 
-- **Barulhentos** — 2021
-- **BombCrypto / BCTeam** — 2021–2022
-- **100jobs** — 2022–2023
-- **AJF eSports** — 2023
-- **Os Ponta Firme** — 2023
-- **MEGAZORD** — 2023–2024
-
-## 🏆 Conquistas competitivas
-
-### VALORANT
-
-| Colocação | Campeonato | Equipe | Data |
+| Colocação | Campeonato | Jogo | Equipe |
 |---|---|---|---|
-| **1º lugar** | KaBuM! Challenge | 100Jobs (ex-Bomb Crypto) | mar/2023 |
-| **3º lugar** | Gamers Club — Elite Cup 2023, Etapa Immortal (online) | MEGAZORD | jun/2023 |
-| **4º lugar** | Copa Rakin 2022 | 100Jobs | nov/2022 |
-| **5º–6º lugar** | Challengers League Brazil: Split 1 — Closed Qualifier | 100Jobs (ex-Bomb Crypto) | mar/2023 |
-| **5º lugar** | Champions Tour Brazil Stage 2: Challengers | 100Jobs (ex-Bomb Crypto) | mar/2022 |
-| **5º–8º lugar** | Gamers Club — Elite Cup 2023, Etapa Radiante (LAN) | MEGAZORD | jul/2023 |
+| **1º lugar** | KaBuM! Challenge — 2023 | VALORANT | 100Jobs |
+| **5º lugar** | Champions Tour Brazil Stage 2: Challengers — 2022 | VALORANT | 100Jobs |
+| **1º lugar** | Copa GamersCard — 2020 | CS:GO | CPTL eSports |
+| **2º lugar** | Brasil Premier League Season 12 — Closed Qualifier — 2020 | CS:GO | CPTL eSports |
 
-### CS:GO
-
-| Colocação | Campeonato | Equipe | Data |
-|---|---|---|---|
-| **1º lugar** | Copa GamersCard | CPTL eSports | set/2020 |
-| **2º lugar** | Brasil Premier League Season 12 — Closed Qualifier | CPTL eSports | mar/2020 |
-| **3º lugar** | Liga Amadora Gamers Club — Fevereiro/21 | Maxima Gaming | fev/2021 |
-| **4º lugar** | AORUS League — Brasil Open Qualifier | Maxima Gaming | fev/2021 |
-| **4º lugar** | Liga Desafiante Gamers Club — Setembro/2020 | CPTL eSports | set/2020 |
-| **5º lugar** | Liga Desafiante Gamers Club — Dezembro/2020 | z4n family | dez/2020 |
-| **5º lugar** | Liga Amadora Gamers Club — Julho/2020 | CPTL eSports | jul/2020 |
-
-> Resultados registrados no perfil [SpasZFPS na KONECT](https://konect.gg/spaszfps).
-
-<details>
-<summary><strong>Ver escalações registradas</strong></summary>
-
-#### CS:GO
-
-- **Cold Clan:** spasz, red1, joao1, brenok, L1N
-- **QuaseNada:** spasz, frx, fuzari, ricdic, martj1N
-- **NO ORG:** spasz, L1N, martj1N, red1, brenok, sunday, volk, PedrinS3
-- **CPTL eSports:** spasz, kNf, saips, puni, hoax, slag, fells, reese, ncK, RpL^, ikki, sllayer
-- **semXorah:** spasz, slag, ikki, RpL^, saips, brnz4n, leoox
-- **z4n family:** spasz, saips, brnz4n, RpL^, leoox
-- **Maxima Gaming:** spasz, saips, mesk, vinizera, brunovsk, skN
-
-#### VALORANT
-
-- **Barulhentos:** Spasz, Slag, Katojin, Rankioshi, bzkA
-- **BombCrypto / BCTeam:** Slag, Spasz, Fatmarino, Mega, Vitrix, Sllayer (Coach)
-- **100jobs:** Edudz, Spasz, Fatmarino, Mega, Drago, Sllayer (Coach)
-- **AJF eSports:** Depppx, Spasz, Mega, ZaninZS, Veroneze, Impi (Coach)
-- **Os Ponta Firme:** spasz, cidZzZ, MATTyx, fzkk, forbanz, Fluyr (Coach)
-- **MEGAZORD:** spasz, cidZzZ, MATTyx, fzkk, Yeah, Fluyr (Coach)
-
-</details>
+Histórico detalhado disponível na [VLR.gg](https://www.vlr.gg/player/18906/spasz) e na [KONECT](https://konect.gg/spaszfps).
 
 ### 📌 Outras experiências
 
